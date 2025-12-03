@@ -1,0 +1,12 @@
+# Ignore environment variable file (SECRETS)
+.env
+
+# Ignore virtual environment
+.venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore IDE configuration files (IntelliJ/PyCharm)
+.idea/
